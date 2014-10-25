@@ -42,6 +42,10 @@ main {
 	margin-right: 20px;
 }
 
+div {
+	padding: 1em;
+	
+}
 header {
 	padding: 1em;
 	background-color: #FA5A0F;
